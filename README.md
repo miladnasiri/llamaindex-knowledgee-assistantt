@@ -29,7 +29,7 @@ The project demonstrates how to integrate LLMs with private data sources to crea
 
 ## 🎥 Demo Preview
 
-![Application Preview](https://your-screenshot-url.com/app-preview.png)
+![Application Preview](https://github.com/miladnasiri/llamaindex-knowledgee-assistantt/blob/f05c8bff286cf169eeb3ae8fa062b71a89c7d6e5/application-preview.gif)
 
 *The screenshot will be replaced with an actual application screenshot once deployed*
 
